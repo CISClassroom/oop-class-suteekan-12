@@ -66,25 +66,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="98" key="GridCell.Tab.0.bottom" timestamp="1576834662423">
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom" timestamp="1577458857377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576834662423" />
-    <state width="1323" height="98" key="GridCell.Tab.0.center" timestamp="1576834662423">
+    <state width="1323" height="98" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577458857377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.center" timestamp="1577458857377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576834662423" />
-    <state width="1323" height="98" key="GridCell.Tab.0.left" timestamp="1576834662423">
+    <state width="1323" height="98" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577458857377" />
+    <state width="1323" height="98" key="GridCell.Tab.0.left" timestamp="1577458857376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576834662423" />
-    <state width="1323" height="98" key="GridCell.Tab.0.right" timestamp="1576834662423">
+    <state width="1323" height="98" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577458857376" />
+    <state width="1323" height="98" key="GridCell.Tab.0.right" timestamp="1577458857377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="98" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576834662423" />
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1576829786202">
+    <state width="1323" height="98" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577458857377" />
+    <state x="430" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577454789858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576829786202" />
+    <state x="430" y="239" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577454789858" />
+    <state x="65" y="0" key="new project wizard" timestamp="1577451013129">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577451013129" />
   </component>
 </project>
